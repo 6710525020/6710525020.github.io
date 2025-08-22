@@ -12,5 +12,5 @@ My nick name is Jigsaw I'm studying Engineering Program in Computer Engineering
 	Line Id : jigsaw0206s
 	Instagram : thisisjigsaw_
 ## My photo
-	![My photo](blob:https://github.com/49a4fd62-9e21-41da-ad61-c18d232d7644)
+	![My photo](https://raw.githubusercontent.com/6710525020/6710525020.github.io/main/IMG_7228.jpeg)
   
